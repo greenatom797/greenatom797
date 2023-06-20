@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greenatom797
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python competetive coding and .Net(Very Basics)
+- 🌱 I’m currently learning Python competitive coding and .Net(Very Basics)
 - 💞️ I’m looking to collaborate on my Hotel Management System
 - 📫 How to reach me ...
   ping at greenatom797@gmail.com
